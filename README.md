@@ -3,7 +3,7 @@
 # 💫 About Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://uk-psi.vercel.app/)
 
-Hi, I am Utkal!<br>- I am currently working on Full Stack Web development.<br>- Reach me at utkal2149@gmail.com
+Hi, I am Utkal!<br>- I am currently working on Full Stack Web development.<br> - Diving into Web3 <br> - Reach me at utkal2149@gmail.com
 
 
 ## 🌐 Socials:
